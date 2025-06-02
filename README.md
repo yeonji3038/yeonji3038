@@ -1,4 +1,5 @@
-## 안녕하세요👋 코드로 세상을 간단하게, 기술로 사람을 쉽게 연결하는 BackEnd 개발자 “최연지” 입니다 !
+## 안녕하세요👋 
+## 코드로 세상을 간단하게, 기술로 사람을 쉽게 연결하는 BackEnd 개발자 “최연지” 입니다 !
 
 <!--
 **yeonji3038/yeonji3038** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
