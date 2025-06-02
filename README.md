@@ -3,14 +3,14 @@
 
 <br>
 
-👩🏻‍💻 About me
+## 👩🏻‍💻 About me
 
 - 백엔드와 프론트를 모두 경험해, 팀원들과의 협업에 있어 이해의 폭이 넓습니다.
 - 새로운 기술을 배우는 것을 즐기며, 문제를 마주하면 끝까지 해결하려는 집요함이 있습니다.
   
 <br>
 
-🏫 Education / Experience
+## 🏫 Education / Experience
 
 - **삼성청년 SW AI 아카데미(SSAFY) 12기**  
   2025.06.30 수료 예정
