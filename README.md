@@ -23,6 +23,7 @@
   2018.03 ~ 2024.08 
 
 
+![image](https://github.com/user-attachments/assets/391ef8f4-6cbb-4c68-bde0-9f87fe7ae2d1)
 
 
 <!--
