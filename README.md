@@ -22,7 +22,13 @@
 - **호서대학교 중어중문학과**  
   2018.03 ~ 2024.08 
 
-
+<br>
+<h3>🛠️<b>Skills</b></h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 
 
 
