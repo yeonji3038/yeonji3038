@@ -38,37 +38,34 @@
 
 <table>
   <tr>
-    <td>
+    <td width="50%" valign="top">
       <h4>🚀 <a href="https://github.com/yeonji3038/PTSD-PJT.git">PTSD</a></h4>
-      🏆 SSAFY 자율프로젝트 우수상 
+      🏆 SSAFY 자율프로젝트 우수상  
       <br/>💡 헬스장 정리 로봇 시스템
     </td>
-  </tr>
-  <tr>
-    <td>
+    <td width="50%" valign="top">
       <h4>🚀 <a href="https://github.com/yeonji3038/StackFlow-PJT.git">Stack-Flow</a></h4>
-      <br/>📦재고관리 웹 프로젝트
+      📦 재고관리 웹 프로젝트
+    </td>
   </tr>
   <tr>
-    <td>
+    <td width="50%" valign="top">
       <h4>🚀 <a href="https://github.com/yeonji3038/Ttaengrang-PJT.git">땡그랑</a></h4>
-      <br/>💰 초등 경제 교육 서비스
+      💰 초등 경제 교육 서비스
     </td>
-  </tr>
-    <tr>
-    <td>
+    <td width="50%" valign="top">
       <h4>🚀 <a href="https://github.com/yeonji3038/CineCode-PJT.git">CINECODE</a></h4>
-      <br/>🎬 영화 추천 및 리뷰 관리 웹사이트
+      🎬 영화 추천 및 리뷰 관리 웹사이트
     </td>
   </tr>
-    <tr>
-    <td>
+  <tr>
+    <td width="50%" valign="top">
       <h4>🚀 <a href="https://github.com/yeonji3038/STOCK-CITY-PJT.git">STOCK-CITY</a></h4>
-      <br/>📦 AWS 클라우드 기반 재고관리 웹 서비스
+      📦 AWS 클라우드 기반 재고관리 웹 서비스
     </td>
+    <td></td> <!-- 여백용 -->
   </tr>
 </table>
-
 
 
 <!--
