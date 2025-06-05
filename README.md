@@ -25,9 +25,10 @@
 <br>
 <h3>🛠️<b>Skills</b></h3>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-  </a>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=java,py,js,nodejs,react,vue,django,spring,gradle,postgres,mysql,aws,jenkins,docker,linux,nginx,git,github,gitlab,postman,idea,pycharm,vscode,notion" />
+</a>
+
 </p>
 
 
