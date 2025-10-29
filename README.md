@@ -13,7 +13,7 @@
 <h3>🏫 <b>Education / Experience</b></h3>
 
 - **삼성청년 SW AI 아카데미(SSAFY) 12기**  
-  2025.06.30 수료 예정
+  2025.06.30 수료
 
 - **KG아이뱅크 DevOps 교육 과정 수료**  
   퍼블릭 클라우드 기반 DevSecOps 융합 인재 양성 과정  
