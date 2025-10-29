@@ -20,9 +20,24 @@
   2024.02.06 수료
 
 - **호서대학교 중어중문학과**  
-  2018.03 ~ 2024.08 
+  2018.03 ~ 2024.08
+  
+<br>
+
+## 🪪 Certificates
+
+| 자격증명 | 취득일 |
+|-----------|--------|
+| AWS Certified Solutions Architect – Associate | 2025.10 |
+| 네트워크관리사 2급 | 2025.06 |
+| 리눅스마스터 2급 | 2024.06 |
+
+
+
 
 <br>
+
+
 <h3>🛠️<b>Skills</b></h3>
 <p align="center">
 <a href="https://skillicons.dev">
