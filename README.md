@@ -41,9 +41,9 @@
 <h3>🛠️<b>Skills</b></h3>
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=java,py,js,nodejs,react,vue,django,spring,gradle,postgres,mysql,redis,kafka,aws,jenkins,docker,linux,nginx,git,github,gitlab,postman,idea,pycharm,vscode,notion" />
+  <img src="https://skillicons.dev/icons?i=java,py,js,nodejs,react,vue,django,spring,gradle,postgres,mysql,redis,kafka,aws,jenkins,docker,linux,nginx,git,github,gitlab,postman,idea,pycharm,vscode,notion" />
 </a>
-</p>
+</p>  
 
 
 ---
