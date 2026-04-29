@@ -56,7 +56,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3>
-        <a href="https://github.com/yeonji3038/StockFlow3-PJT.git">📦 STOCKFLOW</a>
+        <a href="https://github.com/yeonji3038/StockFlow3-PJT.git">🏭 STOCKFLOW</a>
       </h3>
       <p>
         <b>MES 기반 재고관리 시스템</b><br/>
