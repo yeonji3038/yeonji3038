@@ -50,31 +50,51 @@
 
 ## 🖥️ <b>Backend Projects</b>
 
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### 📦 [STOCKFLOW](https://github.com/yeonji3038/StockFlow3-PJT.git)
-> 🏭 **MES 기반 재고관리 시스템-3차**  
+> 🏭 **MES 기반 재고관리 시스템**  
 > `Kubernetes · GitOps · Kafka · Redis`  
 > 통합 재고관리 플랫폼  
 
----
+</td>
+
+<td width="50%" valign="top">
 
 ### 🤖 [PTSD](https://github.com/yeonji3038/PTSD-PJT.git)
 > 🏆 **SSAFY 자율프로젝트 우수상**  
 > `SLAM · MQTT · FastAPI`  
 > 자율주행 헬스장 정리 로봇 시스템  
 
----
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
 
 ### 📦 [Stack-Flow](https://github.com/yeonji3038/StackFlow-PJT.git)
-> 📦 **재고관리 웹 프로젝트-2차**  
+> 📦 **재고관리 웹 프로젝트**  
 > `Spring Boot · React`  
 > 재고관리 서비스  
 
----
+</td>
+
+<td width="50%" valign="top">
 
 ### 💰 [땡그랑](https://github.com/yeonji3038/Ttaengrang-PJT.git)
 > 💰 **초등 경제 교육 서비스**  
 > `주식 · ETF`  
 > 경제 학습 플랫폼  
+
+</td>
+</tr>
+</table>
+
+</div>
 
 <!--
 **yeonji3038/yeonji3038** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
