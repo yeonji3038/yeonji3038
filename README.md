@@ -50,35 +50,54 @@
 
 ## 🖥️ <b>Backend Projects</b>
 
+<div align="center">
+
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🚀 <a href="https://github.com/yeonji3038/StockFlow3-PJT.git">STOCKFLOW</a></h4>
-      🏭 MES 기반 재고관리 시스템
+      <h3>
+        <a href="https://github.com/yeonji3038/StockFlow3-PJT.git">📦 STOCKFLOW</a>
+      </h3>
+      <p>
+        <b>MES 기반 재고관리 시스템</b><br/>
+        Kubernetes · GitOps · Kafka · Redis 기반<br/>
+        통합 재고관리 플랫폼
+      </p>
     </td>
-    <td width="50%" valign="top"></td>
+    <td width="50%" valign="top">
+      <h3>
+        <a href="https://github.com/yeonji3038/PTSD-PJT.git">🤖 PTSD</a>
+      </h3>
+      <p>
+        <b>SSAFY 자율프로젝트 우수상</b><br/>
+        SLAM 기반 자율주행 헬스장 정리 로봇 시스템
+      </p>
+    </td>
   </tr>
 
   <tr>
     <td width="50%" valign="top">
-      <h4>🚀 <a href="https://github.com/yeonji3038/PTSD-PJT.git">PTSD</a></h4>
-      🏆 SSAFY 자율프로젝트 우수상
-      <br/>💡 헬스장 정리 로봇 시스템
+      <h3>
+        <a href="https://github.com/yeonji3038/StackFlow-PJT.git">📦 Stack-Flow</a>
+      </h3>
+      <p>
+        <b>재고관리 웹 프로젝트</b><br/>
+        Spring Boot · React 기반 재고관리 서비스
+      </p>
     </td>
     <td width="50%" valign="top">
-      <h4>🚀 <a href="https://github.com/yeonji3038/StackFlow-PJT.git">Stack-Flow</a></h4>
-      📦 재고관리 웹 프로젝트
+      <h3>
+        <a href="https://github.com/yeonji3038/Ttaengrang-PJT.git">💰 땡그랑</a>
+      </h3>
+      <p>
+        <b>초등 경제 교육 서비스</b><br/>
+        주식·ETF 기반 경제 학습 플랫폼
+      </p>
     </td>
-  </tr>
-
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🚀 <a href="https://github.com/yeonji3038/Ttaengrang-PJT.git">땡그랑</a></h4>
-      💰 초등 경제 교육 서비스
-    </td>
-    <td width="50%" valign="top"></td>
   </tr>
 </table>
+
+</div>
 
 
 <!--
