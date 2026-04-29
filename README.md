@@ -56,11 +56,13 @@
       <h4>🚀 <a href="https://github.com/yeonji3038/StockFlow3-PJT.git">STOCKFLOW</a></h4>
       🏭 MES 기반 재고관리 시스템
     </td>
+    <td width="50%" valign="top"></td>
   </tr>
+
   <tr>
     <td width="50%" valign="top">
       <h4>🚀 <a href="https://github.com/yeonji3038/PTSD-PJT.git">PTSD</a></h4>
-      🏆 SSAFY 자율프로젝트 우수상  
+      🏆 SSAFY 자율프로젝트 우수상
       <br/>💡 헬스장 정리 로봇 시스템
     </td>
     <td width="50%" valign="top">
@@ -68,12 +70,14 @@
       📦 재고관리 웹 프로젝트
     </td>
   </tr>
+
   <tr>
     <td width="50%" valign="top">
       <h4>🚀 <a href="https://github.com/yeonji3038/Ttaengrang-PJT.git">땡그랑</a></h4>
       💰 초등 경제 교육 서비스
     </td>
-    <td></td> <!-- 여백용 -->
+    <td width="50%" valign="top"></td>
+  </tr>
 </table>
 
 
